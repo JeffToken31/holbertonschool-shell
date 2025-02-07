@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 111 hello
+chown 111 hello
