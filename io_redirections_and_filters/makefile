@@ -1,4 +1,4 @@
-msg = commit automatique
+msg = test avant validation
 
 add: 
 	git add .
