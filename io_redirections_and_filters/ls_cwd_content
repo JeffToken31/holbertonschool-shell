@@ -1,0 +1,15 @@
+total 56
+drwxr-xr-x 2 jeff jeff 4096 Feb 10 14:48 .
+drwxr-xr-x 6 jeff jeff 4096 Feb  7 16:27 ..
+-rwxr-xr-x 1 jeff jeff   32 Feb  7 16:35 0-hello_world
+-rwxr-xr-x 1 jeff jeff   28 Feb  7 16:40 1-confused_smiley
+-rwxr-xr-x 1 jeff jeff   28 Feb  7 16:43 2-hellofile
+-rwxr-xr-x 1 jeff jeff   39 Feb  7 16:44 3-twofiles
+-rwxr-xr-x 1 jeff jeff   36 Feb  7 16:46 4-lastlines
+-rwxr-xr-x 1 jeff jeff   36 Feb  7 16:47 5-firstlines
+-rwxr-xr-x 1 jeff jeff   41 Feb 10 09:39 6-third_line
+-rwxr-xr-x 1 jeff jeff   93 Feb 10 14:33 7-file
+-rwxr-xr-x 1 jeff jeff   46 Feb 10 14:47 8-cwd_state
+-rw-r--r-- 1 jeff jeff   44 Feb  7 16:34 README.md
+-rw-r--r-- 1 jeff jeff  758 Feb 10 09:10 iacta
+-rwxr-xr-x 1 jeff jeff  104 Feb  7 16:28 makefile
