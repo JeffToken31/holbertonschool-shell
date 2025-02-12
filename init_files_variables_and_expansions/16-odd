@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -d ~ | cat -n | tr "/" "\n" | tail -n+2 | nl| grep ^[[:print:]]*[1-9]*[13579] | cut -f2-
+cat -n | tr "/" "\n" | tail -n+2 | nl| grep ^[[:print:]]*[1-9]*[13579] | cut -f2-
