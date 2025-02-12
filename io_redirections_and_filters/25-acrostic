@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -c1
+cat acrostic | cut -c1
