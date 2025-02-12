@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -d ~ | tr "/" "\n" | tail -n+2
+ls -d ~ | cat -n | tr "/" "\n" | tail -n+2 | nl| awk 'NR%2' | cut  -f2-
