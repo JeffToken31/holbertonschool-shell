@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1 | cat -n | tr -s "/" "\n" | grep ^[[:print:]]*[1-9]*[13579][[:space:]].* | cut -f2- | rev | cut -d " " -f2- | rev
+cat -n | tr -s "/" "\n" | grep ^[[:print:]]*[1-9]*[13579][[:space:]].* | cut -f2- | rev | cut -d " " -f2- | rev
