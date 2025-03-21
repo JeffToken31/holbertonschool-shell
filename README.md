@@ -1,4 +1,4 @@
-# holbertonschool-low_level_programming
+# holbertonschool-shell
 ## Learning the basics of shell scripting and Linux commands
 
 ### [basics](https://github.com/JeffToken31/holbertonschool-shell/tree/main/basics)
